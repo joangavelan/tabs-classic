@@ -95,7 +95,6 @@ body {
     .accordion-item__label {
         position: relative;
         font-size: 1.7rem;
-        background-color: white;
         padding: 2rem;
         transition: padding .2s ease;
         margin-bottom: 0;
